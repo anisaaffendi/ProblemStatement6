@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Problem Statement</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="color">Change The Color</string>
+    <string name="fact_1">To leave a party without telling anyone is called in English, a “French Exit”. In French, it’s called a “partir à l’anglaise”, to leave like the English.</string>
+    <string name="fact_2">Iceland does not have a railway system.</string>
+    <string name="fact_3">The tongue is the only muscle in one’s body that is attached from one end.</string>
+</resources>
